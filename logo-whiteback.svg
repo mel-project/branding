@@ -7,16 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="139.22609mm"
+   width="144.93915mm"
    height="38.497734mm"
-   viewBox="0 0 139.22609 38.497734"
+   viewBox="0 0 144.93915 38.497734"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="logo-whiteback.svg"
    inkscape:export-filename="/home/miyuruasuka/THEMELIO/docs.themelio.org/static/images/logo-icon.png"
-   inkscape:export-xdpi="193.14"
-   inkscape:export-ydpi="193.14">
+   inkscape:export-xdpi="337.80688"
+   inkscape:export-ydpi="337.80688">
   <defs
      id="defs2">
     <rect
@@ -55,11 +55,11 @@
      pagecolor="#ffffff"
      bordercolor="#ffffff"
      borderopacity="1"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="31.44935"
-     inkscape:cy="-23.158003"
+     inkscape:zoom="1"
+     inkscape:cx="167.32269"
+     inkscape:cy="-19.459204"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -83,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,15 +91,18 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-20.136362,-79.340971)" />
+     transform="translate(-20.135583,-79.340971)" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      style="filter:url(#filter1843)"
-     transform="translate(-20.136362,-79.340971)">
+     transform="translate(-20.135583,-79.340971)">
     <g
-       id="g2227">
+       id="g2227"
+       inkscape:export-filename="/home/miyuruasuka/scratch/logo-only.png"
+       inkscape:export-xdpi="168.94"
+       inkscape:export-ydpi="168.94">
       <circle
          style="opacity:0.98;fill:#006e54;fill-opacity:1;stroke:#007056;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
          id="path2212"
@@ -158,14 +161,13 @@
     <text
        xml:space="preserve"
        id="text1861"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;line-height:1.25;font-family:Kurier;-inkscape-font-specification:Kurier;letter-spacing:-1.3679px;white-space:pre;shape-inside:url(#rect1863);fill:#003d2f;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:28.2222px;line-height:1.25;font-family:Overpass;-inkscape-font-specification:'Overpass Semi-Bold';letter-spacing:-1.37848px;white-space:pre;shape-inside:url(#rect1863);fill:#003d2f;fill-opacity:1;stroke:none;"
        transform="translate(-2.277695,13.710204)"
-       inkscape:export-filename="/home/miyuruasuka/THEMELIO/themelio.org/images/logo-text.png"
+       inkscape:export-filename="/home/miyuruasuka/THEMELIO/themelio.org/images/logo-whiteback.png"
        inkscape:export-xdpi="193.08379"
        inkscape:export-ydpi="193.08379"><tspan
          x="66.238281"
-         y="94.616291"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:Kurier;-inkscape-font-specification:Kurier;fill:#003d2f;fill-opacity:1">themelio</tspan></tspan></text>
+         y="94.051847"><tspan>themelio</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1871"
