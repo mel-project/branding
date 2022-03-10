@@ -6,7 +6,7 @@
    fill="none"
    version="1.1"
    id="svg10"
-   sodipodi:docname="new-logo.svg"
+   sodipodi:docname="new-logo-docs.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1.8539995"
-     inkscape:cx="-56.904007"
-     inkscape:cy="-68.500558"
+     inkscape:zoom="5.2439025"
+     inkscape:cx="111.08139"
+     inkscape:cy="8.772093"
      inkscape:window-width="2560"
      inkscape:window-height="1368"
      inkscape:window-x="1440"
@@ -35,34 +35,37 @@
   <g
      id="g5089"
      transform="translate(-0.968262,-2.69452)"
-     inkscape:export-filename="/home/miyuruasuka/THEMELIO/branding/logo-only.png"
+     inkscape:export-filename="/home/miyuruasuka/THEMELIO/branding/logo-docs.png"
      inkscape:export-xdpi="713.52106"
      inkscape:export-ydpi="713.52106">
     <path
        opacity="0.98"
        d="m 35.4115,71.5811 c 19.0225,0 34.4433,-15.4208 34.4433,-34.4433 0,-19.0225 -15.4208,-34.44328 -34.4433,-34.44328 -19.0225,0 -34.443238,15.42078 -34.443238,34.44328 0,19.0225 15.420738,34.4433 34.443238,34.4433 z"
        fill="#006e54"
-       id="path4" />
+       id="path4"
+       style="fill:#f8fbf8;fill-opacity:1" />
     <path
        d="m 47.7888,49.327 h 8.3558 v 5.1207 h -8.3558 c -3.0565,0 -5.5904,-0.655 -7.6016,-1.9649 -1.998,-1.3232 -3.4932,-3.1028 -4.4856,-5.339 -0.9791,-2.2494 -1.4687,-4.77 -1.4687,-7.5619 v -1.0122 c 0,-2.7787 0.4962,-5.2795 1.4886,-7.5024 1.0056,-2.2229 2.5074,-3.9827 4.5054,-5.2795 2.0112,-1.3099 4.5318,-1.9649 7.5619,-1.9649 h 8.3558 v 5.1207 h -8.3558 c -1.8525,0 -3.2947,0.4433 -4.3268,1.3298 -1.0321,0.8733 -1.7532,2.0377 -2.1634,3.4932 -0.4101,1.4554 -0.6152,3.0565 -0.6152,4.8031 v 1.0122 c 0,1.6407 0.1918,3.2021 0.5755,4.684 0.3838,1.482 1.085,2.6993 2.1039,3.652 1.0321,0.9394 2.5074,1.4091 4.426,1.4091 z m 3.513,-12.623 v 4.8626 H 36.8528 V 36.704 Z"
        fill="#ffffff"
-       id="path6" />
+       id="path6"
+       style="fill:#006e54;fill-opacity:1" />
     <path
        d="m 40.6869,36.393 10e-5,5.5676 c 0.7145,-0.1587 -0.8336,0.2647 0,0 -0.7013,0.1456 -0.1059,-0.0793 -0.7543,1e-4 -0.6351,0.0662 -1.2702,0.0992 -1.9053,0.0992 -3.3344,0 -6.2718,-0.6417 -8.8123,-1.9252 -2.5273,-1.2835 -4.4988,-3.0565 -5.9146,-5.3191 -1.4158,-2.2759 -2.1237,-4.8958 -2.1237,-7.8597 v -0.6152 c 0,-2.1039 0.4168,-3.91 1.2504,-5.4184 0.8336,-1.5084 1.9914,-2.6596 3.4733,-3.4535 1.4952,-0.8071 3.2153,-1.2107 5.1604,-1.2107 2.9507,0 5.2927,0.9329 7.026,2.7985 1.7334,1.8525 2.6,4.4591 2.6,7.82 v 18.4582 c 0,2.6596 -0.5358,4.9354 -1.6076,6.8275 -1.0585,1.8922 -2.5273,3.341 -4.4062,4.3467 -1.8789,1.0056 -4.0489,1.5084 -6.51,1.5084 -2.5669,0 -4.8163,-0.5293 -6.7481,-1.5878 -1.9186,-1.0718 -3.4138,-2.5538 -4.4856,-4.4459 -1.0717,-1.9054 -1.6076,-4.1217 -1.6076,-6.6489 V 37.098 h 6.2321 v 8.2368 c 0,2.2758 0.5822,4.0753 1.7466,5.3985 1.1776,1.31 2.772,1.9649 4.7833,1.9649 1.8789,0 3.3608,-0.6219 4.4458,-1.8656 1.0982,-1.2438 1.6474,-3.0764 1.6474,-5.4978 V 26.559 c 0,-1.6804 -0.2911,-2.8911 -0.8733,-3.6321 -0.5822,-0.7542 -1.4224,-1.1313 -2.5207,-1.1313 -0.9924,0 -1.7995,0.3308 -2.4214,0.9924 -0.6086,0.6615 -0.913,1.7862 -0.913,3.374 v 0.7146 c -0.0132,1.8656 0.3904,3.5328 1.2107,5.0015 0.8204,1.4688 2.0179,2.6199 3.5924,3.4535 1.5878,0.8336 3.5131,1.2504 5.7757,1.2504 0.4631,0 0.8931,-0.0132 1.2901,-0.0397 0.3969,-0.0397 0.8203,-0.086 1.2702,-0.1389 -0.5425,0.1058 0.4499,-0.0529 0,0 0.5425,-0.1059 -0.655,0.1219 0.0992,-0.0104 z"
        fill="#ffffff"
-       id="path8" />
+       id="path8"
+       style="fill:#006e54;fill-opacity:1" />
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Rubik;-inkscape-font-specification:Rubik;letter-spacing:-1.69px;fill:#003d2f;fill-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Rubik;-inkscape-font-specification:Rubik;letter-spacing:-1.69px;fill:#f8fbf8;fill-opacity:1"
      x="79.772789"
      y="51.411289"
      id="text4073"
-     inkscape:export-filename="/home/miyuruasuka/THEMELIO/themelio.org/build/images/logo-whiteback.png"
-     inkscape:export-xdpi="337.80701"
-     inkscape:export-ydpi="337.80701"><tspan
+     inkscape:export-filename="/home/miyuruasuka/THEMELIO/branding/logo-docs.png"
+     inkscape:export-xdpi="713.52106"
+     inkscape:export-ydpi="713.52106"><tspan
        sodipodi:role="line"
        id="tspan4071"
        x="79.772789"
-       y="51.411289">themelio</tspan></text>
+       y="51.411289">docs</tspan></text>
 </svg>
